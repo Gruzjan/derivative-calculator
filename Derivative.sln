@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Derivative", "pochodna\Derivative.csproj", "{DA99C010-753F-4682-9504-D6BBA8BDB79D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Derivative.Tests", "Derivative.Tests\Derivative.Tests.csproj", "{899C105A-8CE4-4D0D-A575-16D08FC1761A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA99C010-753F-4682-9504-D6BBA8BDB79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA99C010-753F-4682-9504-D6BBA8BDB79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA99C010-753F-4682-9504-D6BBA8BDB79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA99C010-753F-4682-9504-D6BBA8BDB79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899C105A-8CE4-4D0D-A575-16D08FC1761A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899C105A-8CE4-4D0D-A575-16D08FC1761A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899C105A-8CE4-4D0D-A575-16D08FC1761A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899C105A-8CE4-4D0D-A575-16D08FC1761A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A61C53-A11C-41E4-B7F2-A19E400357B8}
+	EndGlobalSection
+EndGlobal
